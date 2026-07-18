@@ -1,9 +1,9 @@
 # 1. Executive Summary
 
-**Date of Investigation:** July 29, 2023
-**Conducted By:** [Your Name]
-**Assessment Type:** Phishing Email Incident Investigation
-**Target Asset:** Organizational Email Gateway and End-Users
+*  **Date of Investigation:** July 29, 2023
+*  **Conducted By:** Niladri Biswas
+*  **Assessment Type:** Phishing Email Incident Investigation
+*  **Target Asset:** Organizational Email Gateway and End-Users
 
 ## Situation Overview
 A phishing email was reported by an end-user to the security team. The email was investigated to determine the nature of the attack, identify technical control failures, and establish an actionable incident response plan. The investigation uncovered a highly targeted Advance Fee Fraud (419 Scam) attempt.
