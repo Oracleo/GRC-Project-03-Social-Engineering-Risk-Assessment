@@ -1,4 +1,4 @@
-# 2. Executive Dashboard – Phishing Incident Summary
+# 2. Executive Dashboard
 
 **Incident ID:** SOC-2023-07-PHISH
 **Date of Report:** July 29, 2023
