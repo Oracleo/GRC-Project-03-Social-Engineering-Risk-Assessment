@@ -4,9 +4,9 @@ This document captures the key takeaways from the phishing incident and provides
 
 ## 11.1 What Went Well (Strengths)
 
-1.  **User Reporting:** The phishing email was **reported by an end-user**, demonstrating that our current security awareness program is at least partially effective and establishing a baseline for a "speak-up" culture.
-2.  **Manual Analytical Rigor:** The investigation correctly identified a **VirusTotal False Negative**. The analyst manually correlated SPF failure, DKIM absence, and the Gmail Reply-To mismatch rather than trusting automated tools. This proves the value of human oversight in the SOC/GCS workflow.
-3.  **Documentation & Audit Trail:** The incident was documented in a structured, business-aligned format (`01-Executive-Summary.md` to `07-MITRE-ATTACK-Mapping.md`), creating a defensible audit trail for ISO 27001 and NIST CSF compliance.
+1. **User Reporting:** The phishing email was **reported by an end-user**, demonstrating that our current security awareness program is at least partially effective and establishing a baseline for a "speak-up" culture.
+2. **Manual Analytical Rigor:** The investigation correctly identified a **VirusTotal False Negative**. The analyst manually correlated SPF failure, DKIM absence, and the Gmail Reply-To mismatch rather than trusting automated tools. This proves the value of human oversight in the SOC/GRC workflow.
+3. **Documentation & Audit Trail:** The incident was documented across a suite of formal GRC artifacts (`docs/00-Incident-Report.md` through `09-MITRE-ATTACK-Mapping.md`, and expanded into `10-Residual-Risk-Assessment.md` and `11-Lessons-Learned.md`), creating a defensible audit trail for ISO 27001 and NIST CSF compliance.
 
 ## 11.2 What Failed (Control Gaps)
 
