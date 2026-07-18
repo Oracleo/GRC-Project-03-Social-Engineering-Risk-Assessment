@@ -1,4 +1,4 @@
-# 5. Compliance Gap Analysis (ISO 27001, NIST CSF, GDPR)
+# 7. Compliance Gap Analysis (ISO 27001, NIST CSF, GDPR)
 
 This document maps the identified phishing incident and control gaps to specific regulatory frameworks.
 
