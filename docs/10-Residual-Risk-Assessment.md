@@ -1,4 +1,4 @@
-# 10. Residual Risk Assessment (Post-Remediation)
+# 10. Residual Risk Assessment
 
 After implementing the mitigating controls outlined in `docs/06-Remediation-Tracker.md`, certain risks inevitably remain. This document provides a formal residual risk treatment plan.
 
