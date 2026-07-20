@@ -1,4 +1,4 @@
-# 6. Remediation & Treatment Plan Tracker
+# 6. Remediation Tracker
 
 This artifact tracks the remediation plan with a **Cost-Benefit Analysis** to justify security spending to management and the Board of Directors.
 
