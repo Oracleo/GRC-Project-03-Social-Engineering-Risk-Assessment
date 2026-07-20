@@ -11,7 +11,7 @@ This project demonstrates the full lifecycle of a GRC/SOC incident—from email 
 
 ---
 
-## Project at a Glance (For Recruiters & Hiring Managers)
+## Project at a Glance
 
 | Area | Details |
 |:---|:---|
