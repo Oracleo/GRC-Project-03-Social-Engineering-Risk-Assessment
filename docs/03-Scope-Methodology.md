@@ -1,7 +1,7 @@
-# 3. Incident Scope & Investigation Methodology
+# 3. Scope Methodology
 
 *  **Document Type:** Terms of Reference (ToR)
-*  **Investigation Period:** July 29, 2023
+*  **Investigation Period:** 11 November 2025
 *  **Investigation Owner:** Niladri Biswas
 
 ## 3.1 Purpose
