@@ -24,7 +24,7 @@ This project demonstrates the full lifecycle of a GRC/SOC incident—from email 
 
 ---
 
-## Repository Contents
+## Full Documentation Index (GRC Artifacts)
 
 Navigate this repository to view the formal GRC artifacts:
 
