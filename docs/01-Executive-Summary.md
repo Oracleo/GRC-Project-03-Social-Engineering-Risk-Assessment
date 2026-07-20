@@ -1,6 +1,6 @@
 # 1. Executive Summary
 
-*  **Date of Investigation:** July 29, 2023
+*  **Date of Investigation:** 11 November 2025
 *  **Conducted By:** Niladri Biswas
 *  **Assessment Type:** Phishing Email Incident Investigation
 *  **Target Asset:** Organizational Email Gateway and End-Users
