@@ -45,4 +45,16 @@ Navigate this repository to view the formal GRC artifacts:
 | **`artifacts/`** | Raw forensic evidence including the `.eml` file, raw headers, IOC lists, and threat intelligence logs. |
 | **`screenshots/`** | 8 annotated screenshots documenting the header analysis, SPF failure, and threat intel platforms. |
 
+### Screenshots Index
+
+| No. | Filename | Description |
+|---|---|---|
+| 01 | GRC3-01-email-header.png | Raw email headers — full routing path |
+| 02 | GRC3-02-spf-fail.png | SPF authentication failure detail |
+| 03 | GRC3-03-header-analysis.png | Structured header analysis summary |
+| 04 | GRC3-04-ioc-list.png | Extracted IOC set — all four indicators |
+| 05 | GRC3-05-virustotal-ip.png | VirusTotal — 0/93 detections (false negative) |
+| 06 | GRC3-06-abuseipdb.png | AbuseIPDB — 2 reports, 0% confidence |
+| 07 | GRC3-07-whois-domain.png | WHOIS — rosreestr.ru registration details |
+| 08 | GRC3-08-incident-classification.png | Final incident classification document |
 ---
